@@ -1,0 +1,26 @@
+{
+  "name": "nodepg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pisao-prob1": "node pisao1.js",
+    "pisao-prob2": "node pisao2.js",
+    "pisao-prob3": "node pisao3.js",
+    "pisao-prob4": "node pisao4.js",
+    "pisao-prob5": "node pisao5.js",
+    "pisao-prob6": "node pisao6.js",
+    "pisao-prob7": "node pisao7.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "how-to-npm": "^2.5.1",
+    "learnyounode": "^4.2.1",
+    "npm": "^6.13.7",
+    "pg": "^7.18.1"
+  }
+}
