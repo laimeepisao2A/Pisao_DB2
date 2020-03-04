@@ -1,0 +1,1 @@
+SELECT row_to_json (suppliers) FROM "yee_pisao".suppliers;
